@@ -1,30 +1,26 @@
-# test1
-
-Quick Start 1: Simple Browser App
+# Salesforce Edition
 
 Spring '17 Salesforce Lightning Experience (API Version 39.0) 
 Summer '17 Salesforce Lightning Experience (API Version 40.0)
 
 
-Browser: 
+# Browser: 
 
 Internet Explorer 11 (Latest version)
 Google Chrome (Latest version)
 Firefox (Latest version)
 
 
-OS: 
+# OS: 
 
-Windows 7, 8.1, 10 Professional 32/64bit (To apply the latest patch)
+1 Windows 7, 8.1, 10 Professional 32/64bit (To apply the latest patch)
 
-.Net Framework 4.5
+2 .Net Framework 4.5
 
-TWAIN : Ver2.0
-
-
-License:
+3 TWAIN : Ver2.0
 
 
+# License:
 
 
 
