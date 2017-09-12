@@ -1,6 +1,6 @@
 # test1
 
-Salesforce Edition:
+Quick Start 1: Simple Browser App
 
 Spring '17 Salesforce Lightning Experience (API Version 39.0) 
 Summer '17 Salesforce Lightning Experience (API Version 40.0)
