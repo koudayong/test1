@@ -22,9 +22,6 @@
 
 # License:
 
-- MIT License
-
-
 > The licenses of third party libraries included in this package are as following:
 - **jquery.js**:
   - license: MIT (http://opensource.org/licenses/MIT)
