@@ -6,9 +6,9 @@
 
 # Browser: 
 
-- Internet Explorer 11 (Latest version)
 - Google Chrome (Latest version)
 - Firefox (Latest version)
+- Internet Explorer 11 (Latest version)
 
 
 # OS: 
@@ -22,16 +22,17 @@
 
 # License:
 
+- MIT License
 
 
-- The licenses of third party libraries included in this package are as following:
+The licenses of third party libraries included in this package are as following:
 
-- jquery.js:
+- **jquery.js**:
   license: MIT (http://opensource.org/licenses/MIT)
   author: jQuery Foundation and other contributors
   version: 3.2.1
 
-- ES6-Promise.js:
+- **ES6-Promise.js**:
   license: MIT (http://opensource.org/licenses/MIT)
   author: Yehuda Katz, Tom Dale, Stefan Penner and contributors
 
