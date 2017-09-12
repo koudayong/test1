@@ -13,11 +13,11 @@
 
 # OS: 
 
-1 Windows 7, 8.1, 10 Professional 32/64bit (To apply the latest patch)
+- Windows 7, 8.1, 10 Professional 32/64bit (To apply the latest patch)
 
-2 .Net Framework 4.5
+- .Net Framework 4.5
 
-3 TWAIN : Ver2.0
+- TWAIN : Ver2.0
 
 
 # License:
@@ -26,14 +26,14 @@
 
 - The licenses of third party libraries included in this package are as following:
 
-jquery.js:
-license: MIT (http://opensource.org/licenses/MIT)
-author: jQuery Foundation and other contributors
-version: 3.2.1
+- jquery.js:
+  license: MIT (http://opensource.org/licenses/MIT)
+  author: jQuery Foundation and other contributors
+  version: 3.2.1
 
-ES6-Promise.js:
-license: MIT (http://opensource.org/licenses/MIT)
-author: Yehuda Katz, Tom Dale, Stefan Penner and contributors
+- ES6-Promise.js:
+  license: MIT (http://opensource.org/licenses/MIT)
+  author: Yehuda Katz, Tom Dale, Stefan Penner and contributors
 
 
 
