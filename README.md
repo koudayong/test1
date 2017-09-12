@@ -28,13 +28,13 @@
 The licenses of third party libraries included in this package are as following:
 
 - **jquery.js**:
-  license: MIT (http://opensource.org/licenses/MIT)
-  author: jQuery Foundation and other contributors
-  version: 3.2.1
+  -license: MIT (http://opensource.org/licenses/MIT)
+  -author: jQuery Foundation and other contributors
+  -version: 3.2.1
 
 - **ES6-Promise.js**:
-  license: MIT (http://opensource.org/licenses/MIT)
-  author: Yehuda Katz, Tom Dale, Stefan Penner and contributors
+  -license: MIT (http://opensource.org/licenses/MIT)
+  -author: Yehuda Katz, Tom Dale, Stefan Penner and contributors
 
 
 
