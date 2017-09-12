@@ -1,14 +1,14 @@
 # Salesforce Edition
 
-Spring '17 Salesforce Lightning Experience (API Version 39.0) 
-Summer '17 Salesforce Lightning Experience (API Version 40.0)
+- Spring '17 Salesforce Lightning Experience (API Version 39.0)
+- Summer '17 Salesforce Lightning Experience (API Version 40.0)
 
 
 # Browser: 
 
-Internet Explorer 11 (Latest version)
-Google Chrome (Latest version)
-Firefox (Latest version)
+- Internet Explorer 11 (Latest version)
+- Google Chrome (Latest version)
+- Firefox (Latest version)
 
 
 # OS: 
@@ -24,7 +24,7 @@ Firefox (Latest version)
 
 
 
-* The licenses of third party libraries included in this package are as following:
+- The licenses of third party libraries included in this package are as following:
 
 jquery.js:
 license: MIT (http://opensource.org/licenses/MIT)
